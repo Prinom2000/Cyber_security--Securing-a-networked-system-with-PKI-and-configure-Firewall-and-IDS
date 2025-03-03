@@ -3,6 +3,7 @@
 ## Project Overview
 This project aims to secure a networked system using **Public Key Infrastructure (PKI)** by implementing **Transport Layer Security (TLS)** on **HTTP** for HTTPS connections. The setup involves configuring a **Certification Authority (CA)**, securing a **web server** with **Apache2** on Linux, managing **DNS and firewall settings**, generating **Certificate Signing Requests (CSR)**, issuing certificates, installing **SSL**, and verifying security using **Wireshark**.
 
+## Materials: 
 ## Features
 - Establishment of a **Certification Authority (CA)**
 - Configuration of **Apache2** web server for **HTTPS**
