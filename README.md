@@ -12,6 +12,9 @@ This project aims to secure a networked system using **Public Key Infrastructure
 - Installation and testing of **SSL certificates**
 - **Security verification** using **Wireshark**
 
+## Network Setup
+![image](https://github.com/user-attachments/assets/47d242aa-62db-40de-810b-5957389272f0)
+
 ## Prerequisites
 Ensure you have the following installed and configured:
 - **Ubuntu/Linux**
@@ -29,6 +32,9 @@ Ensure you have the following installed and configured:
 
 ## Conclusion
 This project ensures secure web communication using PKI and TLS encryption, effectively preventing **MITM attacks**, **data interception**, and unauthorized access. 
+
+## Output Figure
+![image](https://github.com/user-attachments/assets/5993552a-6002-428f-b094-359ae0ad3205)
 
 ---
 **Author:** [Your Name]  
