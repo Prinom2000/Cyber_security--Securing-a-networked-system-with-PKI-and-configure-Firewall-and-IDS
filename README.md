@@ -37,6 +37,5 @@ This project ensures secure web communication using PKI and TLS encryption, effe
 ![image](https://github.com/user-attachments/assets/5993552a-6002-428f-b094-359ae0ad3205)
 
 ---
-**Author:** [Your Name]  
-**Date:** [YYYY-MM-DD]  
-**License:** MIT  
+**Author:** [Prinom Mojumder]  
+**Email:** prinommojumder19@gmail.com
